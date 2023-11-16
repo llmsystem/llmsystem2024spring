@@ -12,7 +12,7 @@ const config = {
   tagline: "CMU 11868, Spring 2024",
 
   // Set the production url of your site here
-  url: 'https://llmsystem/',
+  url: 'https://llmsystem.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/llmsystem2024spring/',
