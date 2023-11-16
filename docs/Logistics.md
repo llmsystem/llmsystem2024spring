@@ -1,3 +1,7 @@
+--- 
+hide_table_of_contents: true
+---
+
 ## Description and Objectives
 
 Recent progress of Artificial Intelligence has been largely driven by advances in large language models (LLMs) and other generative methods. These models are often very large (e.g. 175 billion parameters for GPT3) and requires increasingly larger data to train (e.g. 300 billion tokens for ChatGPT). Training, serving, fine-tuning, and evaluating LLMs require sophisticated engineering with modern hardware and software stacks. Developing scalable systems for large language models is critical to advance AI. 
