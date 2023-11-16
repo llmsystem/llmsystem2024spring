@@ -12,15 +12,15 @@ const config = {
   tagline: "CMU 11868, Spring 2024",
 
   // Set the production url of your site here
-  url: 'https://llmsystem/',
+  url: 'https://llmsystem.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/llmsystem2024spring/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'llmsystem', // Usually your GitHub org/user name.
+  projectName: 'llmsystem2024spring', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
