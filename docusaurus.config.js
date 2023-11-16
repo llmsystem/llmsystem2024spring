@@ -71,6 +71,12 @@ const config = {
                 docId: 'Syllabus',
                 label: 'Syllabus',
             },
+            {
+                type: 'doc',
+                position: 'left',
+                docId: 'FAQ',
+                label: 'FAQ',
+            },
         ],
       },
       footer: {
