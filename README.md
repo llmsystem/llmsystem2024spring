@@ -1,8 +1,11 @@
 # CMU 11868 Large Language Model Systems Spring 2024 
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+
+The following are for manual build and compilation. The automatic workflow is already enable on github so that every time pushing to github, it will automatically trigger build and deployment. 
 
 ### Installation
+The following assume using yarn. YOu may use `npm` as well. 
 
 ```
 $ yarn
