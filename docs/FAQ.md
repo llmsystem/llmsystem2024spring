@@ -40,4 +40,4 @@
 
 **Q: Can non-Computer Science students take this course?**
 
-**A:** Non-CS students who have taken undergraduate system course (e.g. distributed system, parallel computing, operating system, database system) and satisfy this course prerequisit are welcome. If you does not have much programming experience in C/C++, it would be difficult to complete some of the homework and project. 
+**A:** Non-CS students who have taken undergraduate system course (e.g. distributed system, parallel computing, operating system, database system) and satisfy this course prerequisit are welcome. If you do not have much programming experience in C/C++, it would be impossible to complete some of the homework and project. 
