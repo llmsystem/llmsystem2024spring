@@ -41,3 +41,10 @@
 **Q: Can non-Computer Science students take this course?**
 
 **A:** Non-CS students who have taken undergraduate system course (e.g. distributed system, parallel computing, operating system, database system) and satisfy this course prerequisit are welcome. If you do not have much programming experience in C/C++, it would be impossible to complete some of the homework and project. 
+
+**Q: Will this course be offered online?**
+**A:** It is in person expected. In person participation and discussion are essential component of the course.
+
+**Q: I am on a waitling list. How likely will I be admitted?**
+**A:** If you satisfy the prerequisit, please stay in the first two weeks. There will be vacancy. 
+
