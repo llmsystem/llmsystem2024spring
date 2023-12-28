@@ -32,7 +32,7 @@
 |                   | Model Quantization and Compression                           |
 | 4/22              | Data Mining, Cleaning, Deduplication, Auditing, and Safeguard for LLMs |
 |                   | Multimodal LLMs (visual language and speech language)        |
-| 4/28              | Final project presentationc                                  |
+| 4/28              | Final project presentations                                  |
 | Additional Topics |                                                              |
 |                   | Privacy, Authenticity, Safety Systems of LLMs                |
 |                   | Copyright Protection for LLM                                 |
