@@ -1,39 +1,35 @@
 
 [Link to preliminary syllabus](https://drive.google.com/file/d/1wvN2CrHQmuTiFZaETUwLWtwI5fTMbOJy/view)
 
-| Dates             | Topic                                                        |
-| ----------------- | ------------------------------------------------------------ |
-| 1/15              | Introduction and ML/LLM BasicsTransformer                    |
-|                   | Transformer                                                  |
-| 1/22              | GPT and LLMs, use cases and challenges                       |
-|                   | Deep Learning Frameworks and Design Principles               |
-| 1/29              | GPU Computation and memory management basics.                |
-|                   | Low-level Computation for Tensor Operators, Verifying and Visualizing Results |
-| 2/5               | Fast Tokenization and Embeddings, Vocabulary Optimization    |
-|                   | Learning and Optimization algorithms                         |
-| 2/12              | Implementing Transformer Forward and Back-propagation in CUDA |
-|                   | GPU Acceleration via Kernel Fusion                           |
-| 2/19              | Decoding - sampling & beam search                            |
-|                   | Efficient Sequence Decoding on GPU                           |
-| 2/26              | Model Serving Service and GPU Inference Frameworks           |
-|                   | GPU just-in-time compilation                                 |
-| 3/4               | Spring Break                                                 |
-| 3/11              | Large models, Sparse Routing, Mixture-of-Expert, and Multiway Networks |
-|                   | Distributed Model Training                                   |
-| 3/18              | Communication Efficient Distributed Training, popular frameworks |
-|                   | Efficient fine-tuning for Large Models                       |
-| 3/25              | Efficient Attention and Memory Optimization for LLMs         |
-|                   | Advanced Large Model Serving and GPU Inference frameworks    |
-| 4/1               | CPU based Serving                                            |
-|                   | Efficient Vector Database and Retrieval-augmented Language Models |
-| 4/8               | Nearest Vector Search for Embeddings                         |
-|                   | LLM Operation and Monitor Tools                              |
-| 4/15              | Longe Context and Extremely Long Sequence Generation         |
-|                   | Model Quantization and Compression                           |
-| 4/22              | Data Mining, Cleaning, Deduplication, Auditing, and Safeguard for LLMs |
-|                   | Multimodal LLMs (visual language and speech language)        |
-| 4/28              | Final project presentations                                  |
-| Additional Topics |                                                              |
-|                   | Privacy, Authenticity, Safety Systems of LLMs                |
-|                   | Copyright Protection for LLM                                 |
-|                   | Case Study: LLAMA2 and GPT4                                  |
+| Dates | Topic | Reading/Content | Homework |
+| --- | --- | --- | --- |
+| 1/17 | Introduction to LLM |  |  |
+| 1/22 | GPU Programming Basics | Low-level storage and computation for data and tensors, matrix computation on gpu |  |
+|  | Learning algorithm and Auto Differentiation |  |  |
+| 1/29 | Deep Learning Frameworks Design Principles | Tensorflow, Pytorch paper |  |
+|  | Transformer | Attention is all you need, Annotated Transformer |  |
+| 2/5 | Fast Tokenization and Embeddings | BPE, Sentence-Piece, Word-piece, Token and Positional Embeddings. | HW 1 due |
+|  | Decoding - sampling & beam search | Top-k sampling, Beam search, Diverse bean search, Constrained Generation |  |
+| 2/12 | GPU Architecture for DL | basic introduction of A100/H100 GPU | Guest(?) |
+|  | GPU Acceleration 1 | LightSeq |  |
+| 2/19 | Efficient Sequence Decoding on GPU | LightSeq, FlexGen | HW2 due |
+|  | Accelerating Backward Computation on GPU |  |  |
+| 2/26 | Distributed Model Training | PyTorch FSDP, Pytorch notebook implementations, Stabilizing LLM training |  |
+|  | Communication Efficient Distributed Training, popular frameworks | DeepSpeed, gpt-neox, megatron |  |
+| 3/4 | spring break |  |  |
+| 3/11 | Model Quantization and Compression | GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers | HW3 Due |
+|  | Efficient fine-tuning for Large Models | LORA, QLoRA, gradient checkpoint |  |
+| 3/18 | Model Serving Service and GPU Inference Frameworks | LightLLM and Triton |  |
+|  | CPU based Serving, LLM Operation and Monitor | gglm, llama.cpp, MLC, https://github.com/tensorchord/Awesome-LLMOps |  |
+| 3/25 | Advanced Large Model Serving and GPU Inference frameworks | Orca: A Distributed Serving System for Transformer-Based Generative Models | HW4 Due |
+|  | PageAttention | vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention, AlpaServe |  |
+| 4/1 | GPU just-in-time compilation | Compiling machine learning programs via high-level tracing (JAX) |  |
+|  | Large models, Sparse Routing, Mixture-of-Expert, and Multiway Networks | Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer, GShard, DeepSpeed-MOE, Tutul |  |
+| 4/8 | Efficient Attention and Memory Optimization for LLMs | FlashAttention, Multi-query Attention, ZeRO | HW5 Due |
+|  | Longe Context and Extremely Long Sequence Generation | Rethinking Attention with Performers, Blockwise Parallel Transformer for Large Context Models, Scaling Transformer to 1M tokens and beyond with RMT |  |
+| 4/15 | Efficient Vector Database and Retrieval-augmented Language Models | REALM: Retrieval-Augmented Language Model Pre-Training, Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks |  |
+|  | Nearest Vector Search for Embeddings | Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs, Filtered − DiskANN: Graph Algorithms for Approximate Nearest Neighbor Search with Filters, Accelerating Large-Scale Inference with Anisotropic Vector Quantization |  |
+| 4/22 | Speculative Decoding | Fast Inference from Transformers via Speculative Decoding; Accelerating Large Language Model Decoding
+with Speculative Sampling |  |
+|  | Multimodal LLMs (visual language and speech language) | Flamingo: a Visual Language Model for Few-Shot Learning, SeamlessM4T—Massively Multilingual & Multimodal Machine Translation |  |
+| 4/28 | Final project presentation |  |  |
