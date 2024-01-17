@@ -3,7 +3,6 @@ import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 
-
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
@@ -38,9 +37,54 @@ export default function HomepageFeatures() {
                 <div className="text--left"></div>
                 <div className="text--left --md">
                     <Heading as="h1">{'Instructor'} </Heading>
-                    <Heading as="h3"><a href="https://www.cs.cmu.edu/~leili/">Lei Li</a></Heading>
+                    <div style={{textAlign: "center",  float: "left"}}>
+                        <img src="img/leili-pic1.jpg"></img>
+                        <Heading as="h3"><a href="https://www.cs.cmu.edu/~leili/">Lei Li</a></Heading>
+                    </div>
+                </div>
+
+
+                <div style={{width:"100%", float: "left"}}>
+                  <div >
+                      <Heading as="h1">{'Teaching Assistants'} </Heading>
+                      <div style={{textAlign: "center",  float: "left", marginRight: "10px"}}>
+                          <img src="img/juanyun-pic.jpg"></img>
+                          <Heading as="h4">Juanyun Mai</Heading>
+                      </div>
+                      &nbsp;&nbsp;&nbsp;
+                      <div style={{textAlign: "center",  float: "left", marginRight: "10px"}}>
+                          <img src="img/jeremy-pic.jpg"></img>
+                          <Heading as="h4">Jeremy Lee</Heading>
+                      </div>
+
+                      <div style={{textAlign: "center",  float: "left", marginRight: "10px"}}>
+                          <img src="img/cheng-pic.jpeg"></img>
+                          <Heading as="h4">Cheng Ma</Heading>
+                      </div>
+
+                      <div style={{textAlign: "center",  float: "left", marginRight: "10px"}}>
+                          <img src="img/bowentan.jpg"></img>
+                          <Heading as="h4">Bowen Tan</Heading>
+                      </div>
+
+                      <div style={{textAlign: "center",  float: "left", marginRight: "10px"}}>
+                          <img src="img/jialu-pic.jpg"></img>
+                          <Heading as="h4">Jialu Gao</Heading>
+                      </div>
+
+                      <div style={{textAlign: "center",  float: "left", marginRight: "10px"}}>
+                          <img src="img/kedi_360.jpg"></img>
+                          <Heading as="h4">Kedi Xu</Heading>
+                      </div>
+
+                      <div style={{textAlign: "center",  float: "left", marginRight: "10px"}}>
+                          <img src="img/chenyang-pic.jpeg"></img>
+                          <Heading as="h4">Chenyang Yang</Heading>
+                      </div>
+                  </div>
                 </div>
             </div>
+
         </div>
       </div>
     </section>
