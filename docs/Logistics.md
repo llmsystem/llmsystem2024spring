@@ -23,7 +23,7 @@ Monday and Wednesday, 5-6:20pm, POS A35 (in-person expected)
 | Wednesday | 3pm - 4pm   | GHC 9215   | Jeremy Lee    |
 | Thursday  | 3pm - 4pm   | GHC 5417   | Jialu Gao     |
 | Friday    | 1pm - 2pm   | GHC 5417   | Cheng Ma      |
-| Friday    | 2pm - 3pm   | GHC 5417   | Chenyang Yang |
+| Friday    | 2pm - 3pm   | TCS 232   | Chenyang Yang |
 | Friday    | 3pm - 4pm   | GHC 5417   | Bowen Tan     |
 
 
