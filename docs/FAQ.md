@@ -49,3 +49,7 @@
 **Q: I am on a waiting list. How likely will I be admitted?**
 
 **A:** If you satisfy the prerequisite, please stay in the first two weeks. There will be a vacancy. 
+
+
+**Q: May I audit the course**
+**A:** There is not audit option for this course since university requires accomodating all students on the waitlist first and there is a long waitlist currently. 
