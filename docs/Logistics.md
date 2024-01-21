@@ -19,7 +19,7 @@ Monday and Wednesday, 5-6:20pm, POS A35 (in-person expected)
 | Day       | Time        | Location   | TA            |
 |:----------|:------------|:-----------|:--------------|
 | Monday    | 10am - 11am | GHC 5417   | Juanyun Mai   |
-| Tuesday   | 5pm - 6pm   | GHC 5417   | Kedi Xu       |
+| Tuesday   | 5pm - 6pm   | TCS 349   | Kedi Xu       |
 | Wednesday | 3pm - 4pm   | GHC 9215   | Jeremy Lee    |
 | Thursday  | 3pm - 4pm   | WH 3110   | Jialu Gao     |
 | Friday    | 2pm - 3pm   | TCS 232  | Chenyang Yang |
