@@ -8,7 +8,7 @@
 
 **Q: I took deep learning on coursera, does it count?**
 
-**A:** The deep learning course on coursera is not equivalent to 12 credit deep learning course at CMU. It does not contain enough hands-on practice and project. 
+**A:** The deep learning course on coursera is not equivalent to the 12 credit deep learning course at CMU. It does not contain enough hands-on practice and the project. 
 
 **Q: how heavy will this course be (in terms of hours/week)?**
 
@@ -40,7 +40,7 @@
 
 **Q: Can non-Computer Science students take this course?**
 
-**A:** Non-CS students who have taken undergraduate system course (e.g. distributed system, parallel computing, operating system, database system) and satisfy this course prerequisit are welcome. If you do not have much programming experience in C/C++, it would be impossible to complete some of the homework and project. 
+**A:** Non-CS students who have taken undergraduate system courses (e.g. distributed system, parallel computing, operating system, database system) and satisfy this course prerequisite are welcome. If you do not have much programming experience in C/C++, it would be impossible to complete some of the homework and the project. 
 
 **Q: Will this course be offered online?**
 
@@ -50,6 +50,6 @@
 
 **A:** If you satisfy the prerequisite, please stay in the first two weeks. There will be a vacancy. 
 
+**Q: May I audit the course?**
 
-**Q: May I audit the course**
-**A:** There is not audit option for this course since university requires accomodating all students on the waitlist first and there is a long waitlist currently. 
+**A:** There is no audit option for this course since university requires accommodating all students on the waitlist first and there is a long waitlist currently. 
