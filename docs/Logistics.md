@@ -66,9 +66,14 @@ No text book is required. A select set of recent papers on LLM systems and algor
 
 # **Policies**
 
-## Late Work Policy
+## Late Day Policy
 
-This course works best when everybody completes their work by the designated deadlines. This prevents cascading tardiness from overwhelming both students and teaching staff. However, sometimes there are situations that call for extensions. Some examples from the last few years include the following:
+Each student will have **3 late days** in total for all the individual assignments. Each assignment is allowed to use **at most 1 late day**. No penalty is applied for late days, but there will be penalties if you submit the homework late. 
+
+We still encourage everybody to complete their work by the designated deadlines. This prevents cascading tardiness from overwhelming both students and teaching staff. 
+
+**Extensions**
+However, sometimes there are situations that call for extensions. Some examples from the last few years include the following:
 
 - The death of friend or family member
 - A wedding in the family
