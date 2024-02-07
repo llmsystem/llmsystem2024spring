@@ -88,7 +88,7 @@ const config = {
       footer: {
         style: 'dark',
         links: [],
-        copyright: `Copyright © ${new Date().getFullYear()} LLM System, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} LLM Systems, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
