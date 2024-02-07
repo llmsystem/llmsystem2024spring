@@ -14,7 +14,7 @@ We present a seed list of project ideas. You are welcome to choose any of the ab
 - Implement FlashAttention
 - Implement PageAttention
 - Implement mix-precision training
-- Implement memory optimization in [LightSeq](https://arxiv.org/pdf/2110.05722.pdf) for faster inference
+- Implement memory optimization in [LightSeq](https://arxiv.org/abs/2010.13887) for faster inference
 
 **Advanced research direction**
 - Scaling multimodal LLM training and inference (e.g. speech-text LLM model)
