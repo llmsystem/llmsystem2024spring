@@ -4,7 +4,7 @@ hide_table_of_contents: true
 
 ## Description
 
-Students will collaborate in groups of **2 to 3** to complete a project on LLM systems. 
+Students will collaborate in groups of **2 to 3** to complete a project on LLM systems. These projects should have some systems and some LLM components. 
 There are two types of projects: 
 - Design scalable and accelerated components in MiniTorch for LLMs by reimplementing a recent LLM system paper. or
 - Explore and solve new research challenges on LLM systems with the goal of submitting a paper to a conference (e.g. MLsys, OSDI, SOSP, SC, etc).

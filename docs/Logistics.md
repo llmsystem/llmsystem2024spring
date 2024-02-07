@@ -42,6 +42,14 @@ Each class will contain
 
 Occasionally, we will invite industrial speakers to present latest advancement and engineering practice in building real LLM systems.
 
+## Discussion Forum
+
+We will use the Ed platform for discussions, but coming to office hours is also encouraged. You may send private message on edstem platform as well.
+
+
+## Textbook and Course Material 
+
+No text book is required. A select set of recent papers on LLM systems and algorithms will be provided. Students are expected to read the assigned material and papers before each lecture. 
 
 ## Homework, Exam and Grading
 
@@ -55,16 +63,26 @@ The course will have four graded components. Please submit your homework on canv
 | Project               | 30%                    |
 
 
-## Discussion Forum
+## Required Reading
 
-We will use the Ed platform for discussions, but coming to office hours is also encouraged. You may send private message on edstem platform as well.
+Each student is required to read the material or paper before each session. Each student will write a review for the paper. Students assigned to the paper will be the reviewing committee.  The review is similar to a normal conference paper review and should contain description of major innovation/highlight from the paper, major strengths and weakness of the paper. Students are expected to discuss and exchange reviews. 
+
+**Rationale:** Being able to review papers and provide insightful feedback is critical to being a productive member of the research community. This is an important skill to be developed in the graduate program. 
+
+## In-class Presentation
+
+Student will form a team of 3 to present a recent paper assigned by the instructor about the topic of the session. The presentation will be 30 minutes and 10 minutes for discussion. Students will turn in the presentation slides. 
+
+**Rationale:** Learning how to read, synthesize, and present ideas in a collection of related papers is an important part of the graduate program. This is a safe environment to develop the critical  skills. In addition, we have found that the best way to learn the material is to try to teach it.
 
 
-## Textbook and Course Material 
+# Computing Resources
 
-No text book is required. A select set of recent papers on LLM systems and algorithms will be provided. Students are expected to read the assigned material and papers before each lecture. 
+Each student will receive $150 credits for computation on AWS cloud. We will also provide access to Pittsburgh Supercomputing clusters (PSC). Students may also use Google co-lab if they are new users. We are applying for hardware grant from Nvidia as well for this course.
+
 
 # **Policies**
+---------
 
 ## Late Day Policy
 
