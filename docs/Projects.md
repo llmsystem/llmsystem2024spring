@@ -1,3 +1,7 @@
+--- 
+hide_table_of_contents: true
+---
+
 ## Description
 
 Students will collaborate in groups of **2 to 3** to complete a research project on LLM systems. The group project's purpose is to inspire students to design scalable components in MiniTorch for LLM, reimplement recent papers or to delve deeply into advanced LLM Systems research areas.
