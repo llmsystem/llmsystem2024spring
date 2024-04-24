@@ -16,16 +16,16 @@ Monday and Wednesday, 5-6:20pm, POS A35 (in-person expected)
 
 
 ## Office Hours
-| Day       | Time        | Location   | Instructor/TA            |
-|:----------|:------------|:-----------|:--------------|
-| Monday    | 10am - 11am | GHC 5417   | Juanyun Mai   |
-| Tuesday   | 5pm - 6pm   | TCS 349   | Kedi Xu       |
-| Wednesday | 3pm - 4pm   | GHC 9215   | Jeremy Lee    |
-| Thursday  | 3pm - 4pm   | WH 3110   | Jialu Gao     |
-| Thursday  | 4pm - 5pm   | GHC 6403   | Lei Li     |
+| Day       | Time        | Location | Instructor/TA |
+| :-------- | :---------- | :------- | :------------ |
+| Monday    | 10am - 11am | GHC 5417 | Juanyun Mai   |
+| Tuesday   | 5pm - 6pm   | TCS 349  | Kedi Xu       |
+| Wednesday | 3pm - 4pm   | GHC 9215 | Jeremy Lee    |
+| Thursday  | 3pm - 4pm   | WH 3110  | Jialu Gao     |
+| Thursday  | 4pm - 5pm   | GHC 6403 | Lei Li        |
 | Friday    | 2pm - 3pm   | TCS 232  | Chenyang Yang |
-| Friday    | 3pm - 4pm   | GHC 7609   | Bowen Tan     |
-| Friday    | 4pm - 5pm   | GHC 5417   | Cheng Ma      |
+| Friday    | 3pm - 4pm   | GHC 7609 | Bowen Tan     |
+| Friday    | 4pm - 5pm   | GHC 5417 | Cheng Ma      |
 
 
 ## Prerequisites
@@ -36,9 +36,11 @@ You are highly recommended to take either Deep Learning (11785) or Advanced NLP 
 ## Class Format
 
 Each class will contain 
-- 40 minutes of lecture 
-- 30 minutes of either code-walk through or 30 minutes of student presentation of an assigned latest paper. 
-- The remaining 10 minutes will be discussion and review of the content. 
+- Lectures 
+- Code-walk through 
+- Student presentation of an assigned recent paper (for the later half). 
+- Discussion and review of the content. 
+- Homework review
 
 Occasionally, we will invite industrial speakers to present latest advancement and engineering practice in building real LLM systems.
 
@@ -55,12 +57,12 @@ No text book is required. A select set of recent papers on LLM systems and algor
 
 The course will have four graded components. Please submit your homework on canvas.
 
-|                       | Percentage             |
-| --------------------- | ---------------------- |
-| Homework              | 10% each, 50% in total |
-| Reading and Review    | 10%                    |
-| In-class Presentation | 10%                    |
-| Project               | 30%                    |
+|                                 | Percentage             |
+| ------------------------------- | ---------------------- |
+| Homework                        | 10% each, 40% in total |
+| Participation, Quiz, Discussion | 10%                    |
+| In-class Presentation           | 10%                    |
+| Project                         | 40%                    |
 
 
 ## Required Reading
